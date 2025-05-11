@@ -6,7 +6,12 @@
   "scripts": {
     "test": "jest --watchAll"
   },
+  "type":"module",
   "devDependencies": {
     "jest": "^29.5.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "transform": {}
   }
 }

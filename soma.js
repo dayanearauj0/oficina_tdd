@@ -1,5 +1,5 @@
 function soma() {
-  //seu código aqui
+ return a + b //seu código aqui
 }
 
-module.exports = soma
+export default soma
