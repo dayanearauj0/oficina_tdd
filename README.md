@@ -1,4 +1,5 @@
-# Oficina de TDD 🚀 
+# Oficina de TDD 🚀 - Criada pela comunidade PretaLab - 
+#Aluna : Dayane Carla de Araújo Melo
 
 ![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
 <aside>
